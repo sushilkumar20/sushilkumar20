@@ -14,5 +14,3 @@
 - 😄 Pronouns: He/Him
 
 
-## Some Statistics Fun
-![Sushil Kumar's github stats](https://github-readme-stats.vercel.app/api?username=sushilkumar20&show_icons=true&line_height=30)<br>
