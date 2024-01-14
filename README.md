@@ -6,8 +6,8 @@
 **This is Sushil Kumar.**
 
 
-- 🔭 I’m currently working on App development
-- 🌱 I’m currently learning  Flutter  
+- 🔭 I’m currently working as Java Developer
+- 🌱 Learning to dsign scalable system
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about: DSA or CP
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sushil-kumar-bh20/" >Linkedin</a>
